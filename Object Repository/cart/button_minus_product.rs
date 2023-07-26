@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_minus_product</name>
+   <tag></tag>
+   <elementGuidId>83fb2f3e-d2b4-44ba-b4e7-70c051a3af43</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiBox-root.css-sjx0zd</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[3]/div/div/div/div/div/div[2]/button/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ca8c478d-3678-4423-b452-859751a19701</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-sjx0zd</value>
+      <webElementGuid>a095cfc2-0117-4563-9b3c-b2f210f37c19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-</value>
+      <webElementGuid>973be195-a0d6-4a5e-bab5-34a30bddfab7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1ixgbcy&quot;]/div[@class=&quot;css-yvopwm&quot;]/div[@class=&quot;css-19ec3x4&quot;]/div[@class=&quot;css-1773by3&quot;]/div[@class=&quot;css-127bjm&quot;]/div[@class=&quot;css-56jipt&quot;]/div[@class=&quot;css-1kze96t&quot;]/div[@class=&quot;css-14l31q&quot;]/button[@class=&quot;MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButtonBase-root  css-z5yaat&quot;]/div[@class=&quot;MuiBox-root css-sjx0zd&quot;]</value>
+      <webElementGuid>5f53e936-f901-448f-9e88-765ace6f21ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[3]/div/div/div/div/div/div[2]/button/div</value>
+      <webElementGuid>9ec84555-7623-4654-ae35-4038adcf42a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/button/div</value>
+      <webElementGuid>999a88b8-2798-4023-9b84-e1c8f6ce2862</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '-' or . = '-')]</value>
+      <webElementGuid>0b6ff0c4-eef5-4a32-8a7d-1d63108bd1a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
